@@ -1,7 +1,6 @@
-# first
-My first job in VS Code and git.
+##My first job in VS Code and git
 
-## Title
+#Types of text
 
 
 1. default text
