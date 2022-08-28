@@ -1,6 +1,6 @@
-##My first job in VS Code and git
+# My first job in VS Code and git.
 
-#Types of text
+## Types of text
 
 
 1. default text
