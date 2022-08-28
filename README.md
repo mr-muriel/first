@@ -7,11 +7,11 @@ My first job in VS Code and git.
 1. default text
 1. **bolt text**
 1. *corsive text*
-1. + [link text](new folder\index.html)
+1. + [link text](https://github.com/mr-muriel/first/tree/main/new%20folder/index.html)
 
 ---
 
-! [any text](new folder\index.html "new folder")
+! [any text](https://github.com/mr-muriel/first/tree/main/new%20folder "new folder")
 
 
 ```python
