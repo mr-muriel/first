@@ -7,9 +7,8 @@
     - **bold text**
     - *italic text*
     - ~strikethrough text~
-    - _underlined text_
         - [link text](https://github.com/mr-muriel/first/tree/main/new%20folder/index.html)
-        - ***~_[combo text](https://github.com/mr-muriel/first/tree/main/new%20folder/index.html)_~***
+        - ***~[combo text](https://github.com/mr-muriel/first/tree/main/new%20folder/index.html)~***
 
 ---
 
@@ -58,4 +57,4 @@ if a>1:
 ---
 
 ![Alt-текст](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU "Picture")
-<p align="center">:white_check_mark: Complete.</p>
+<p align="Right">:white_check_mark: Complete.</p>
