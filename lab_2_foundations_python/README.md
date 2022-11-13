@@ -6,10 +6,10 @@
 2. Спробував зарезервовані константи;
 3. Спробував базові функції;
 4. Спробував цикли та розгалуження;
-![alt text](https://github.com/nazarsoroka/Fundamentals-of-programming/raw/main/scr_3.png)
+![alt text](https://i.imgur.com/ZJqIBpm.png)
 5. Спробував контекст-менеджери та лямбди;
 6. Всі завдання виконав в Python ноутбуці;
-![alt text](https://github.com/nazarsoroka/Fundamentals-of-programming/blob/main/scr_4.png)
+![alt text](https://i.imgur.com/n9kBiAx.png)
 7. Навчився базовим конструкціям Пайтон.
 
 • Результати всіх завдань знаходяться в Python ноутбуці.
